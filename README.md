@@ -2,8 +2,6 @@
 
   <br />
   <br />
-  
-  <img src="pictures/dp.jpg" />
 
   <h2 align="center">Tanzim Hasan Prappo - Personal portfolio</h2>
 
@@ -17,7 +15,9 @@ This website is fully responsive personal portfolio, <br />Responsive for all de
 
 ### Demo Screeshots
 
-![Tanzim's Portfolio Desktop Demo]()
+<img src="pictures/portfolio1.jpg" />
+<img src="pictures/portfolio2.jpg" />
+<img src="pictures/portfolio3.jpg" />
 
 
 ### License
