@@ -13,12 +13,6 @@ This website is fully responsive personal portfolio, <br />Responsive for all de
 
 <br />
 
-### Demo Screeshots
-
-<img src="pictures/portfolio1.jpg" />
-<img src="pictures/portfolio2.jpg" />
-<img src="pictures/portfolio3.jpg" />
-
 
 ### License
 
