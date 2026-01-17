@@ -7,7 +7,7 @@
 
 This website is fully responsive personal portfolio, <br />Responsive for all devices, built using raw HTML and CSS only.
 
-<a href="https://legendarybeast.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
+<a href="https://tanzimhasan.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
